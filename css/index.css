@@ -13,7 +13,6 @@ body{
 	bottom: 20px;
 	background: url(../img/musicon.gif);
 	z-index: 999;
-  	-webkit-transform: scale(1);
 }
 
 .hide{ display:none;}
