@@ -9,8 +9,8 @@ body{
 	width: 14px;
 	height: 14px;
 	position: absolute;
-	right: 0;
-	bottom: 0;
+	right: 20px;
+	bottom: 20px;
 	background: url(../img/musicon.gif);
 	z-index: 999;
   	overflow: hidden;
