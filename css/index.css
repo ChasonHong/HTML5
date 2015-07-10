@@ -14,7 +14,7 @@ body{
 	background: url(../img/musicon.gif);
 	z-index: 999;
 	overflow:hidden;
-  	-webkit-transform: scale(1.5);
+  	-webkit-transform: scale(2);
 }
 
 .hide{ display:none;}
