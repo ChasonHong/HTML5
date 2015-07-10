@@ -5,6 +5,15 @@ body{
 	
 }
 
+#music{
+	width: 16px;
+	height: 16px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	background: url(../img/musicon.gif);
+}
+
 .hide{ display:none;}
 
 .page{
