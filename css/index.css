@@ -9,12 +9,12 @@ body{
 	width: 14px;
 	height: 14px;
 	position: absolute;
-	right: 20px;
-	bottom: 20px;
+	right: 10px;
+	bottom: 10px;
 	background: url(../img/musicon.gif);
 	z-index: 999;
 	overflow:hidden;
-  	-webkit-transform: scale(.5);
+  	-webkit-transform: scale(1.5);
 }
 
 .hide{ display:none;}
