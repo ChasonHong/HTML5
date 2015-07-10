@@ -308,13 +308,3 @@ body{
 	top:67%;
 	margin-left:-130px;
 }
-#music{
-	width: 14px;
-	height: 14px;
-	position: absolute;
-	right: 20px;
-	bottom: 20px;
-	background: url(../img/musicon.gif);
-	z-index: 999;
-	overflow:hidden;
-}
