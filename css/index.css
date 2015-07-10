@@ -4,19 +4,6 @@ body{
 	overflow:hidden;
 	
 }
-
-#music{
-	width: 14px;
-	height: 14px;
-	position: absolute;
-	right: 20px;
-	bottom: 20px;
-	background: url(../img/musicon.gif);
-	z-index: 999;
-	overflow:hidden;
-  	-webkit-transform: scale(2);
-}
-
 .hide{ display:none;}
 
 .page{
@@ -319,4 +306,16 @@ body{
 	left:50%;
 	top:67%;
 	margin-left:-130px;
+}
+
+#music{
+	width: 14px;
+	height: 14px;
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+	background: url(../img/music.png);
+	z-index: 999;
+	overflow:hidden;
+  	-webkit-transform: scale(2);
 }
